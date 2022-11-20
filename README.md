@@ -34,6 +34,10 @@ The dataset shows 85981 reviews. only revies with 20 or more votes were consider
    The percentage of 5 star reviews for paid vine program was: 66.666667%
    And the percentage of 5 star reviews for unpaid vine program was: 55.074337%
    ![percentage](https://user-images.githubusercontent.com/107454933/202920097-25c436f2-9fc7-46c8-837f-ebaf8e8694f8.png)
+   
+  ## Summary
+  Based on the result the percentage of paid 5 star rating was higher than the percentage of unpaid 5 star rating reviews.tahis discribe a positivity bias for reviews in the vine program. 
+  Additionaly we could analysis the statistical distribution of a star rating for the vine and non vine revaiews.  alelelee    
 
    
 
